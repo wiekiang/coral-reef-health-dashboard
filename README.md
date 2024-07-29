@@ -22,6 +22,12 @@ The project uses datasets from the Australian Institute of Marine Science (AIMS)
 
 1. **Benthic Data (all.reef.csv):** Contains information about the benthic composition at different reefs and depths.
 
+## Notebooks
+In the [notebooks folder](https://github.com/wiekiang/coral-reef-health-dashboard/tree/develop/notebooks), there are two files:
+
+* **[data_analysis](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_analysis.ipynb):** Contains visualizations and exploratory data analysis.
+* **[data_preprocessing](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_preprocessing.ipynb):** Handles data optimization, cleanup, and preprocessing.
+
 ## Dependencies
 - Python
 - Pandas
