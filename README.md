@@ -25,8 +25,8 @@ The project uses datasets from the Australian Institute of Marine Science (AIMS)
 ## Notebooks
 In the [notebooks folder](https://github.com/wiekiang/coral-reef-health-dashboard/tree/develop/notebooks), there are two files:
 
-* **[data_analysis](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_analysis.ipynb):** Contains visualizations and exploratory data analysis.
-* **[data_preprocessing](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_preprocessing.ipynb):** Handles data optimization, cleanup, and preprocessing.
+* [data_preprocessing](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_preprocessing.ipynb): Handles data optimization, cleanup, and preprocessing.
+* [data_analysis](https://github.com/wiekiang/coral-reef-health-dashboard/blob/develop/notebooks/data_analysis.ipynb): Contains visualizations and exploratory data analysis.
 
 ## Dependencies
 - Python
